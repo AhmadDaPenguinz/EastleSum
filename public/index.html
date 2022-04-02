@@ -39,7 +39,12 @@
 
         gtag('config', '%REACT_APP_GOOGLE_MEASUREMENT_ID%');
       </script>
+    <% } %>
+    <% if (process.env.NODE_ENV === 'production' && process.env.REACT_APP_PLAUSIBLE_DOMAIN != null) { %>
+      <!-- Plausible Analytics -->
     <script defer data-domain="knightle.vercel.app" src="https://plausible.io/js/plausible.js"></script>
+
+    <% } %>
 
   </head>
   <body>

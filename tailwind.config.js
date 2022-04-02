@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Roboto: "'Roboto Slab','serif'"
+        Roboto: "'Roboto Slab','serif'",
+        Crete: "'Crere Round','serif'"
       }
 
     },

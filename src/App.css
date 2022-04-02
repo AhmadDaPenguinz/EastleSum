@@ -1,5 +1,5 @@
 html.dark {
-  background-color: rgb(247, 174, 248);
+  background-color: rgb(15, 23, 42);
 }
 GAME.TITLE {
   font-family: 'Roboto Slab', serif;
@@ -9,4 +9,3 @@ GAME.TITLE {
   line-height: 1.75rem;
   margin-left: 0.625rem;
 }
-

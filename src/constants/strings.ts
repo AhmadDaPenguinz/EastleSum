@@ -1,6 +1,6 @@
 export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
 
-export const WIN_MESSAGES = ['Could\'ve done better.', 'Sure.', 'Bruh']
+export const WIN_MESSAGES = ['Knightle has been knighted']
 export const GAME_COPIED_MESSAGE = 'Not gonna Copy shiz'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'You\'re missing letters, Sherlock.'
 export const WORD_NOT_FOUND_MESSAGE = 'Stop making stuff up. You always do this.'

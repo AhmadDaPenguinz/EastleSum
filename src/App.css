@@ -1,9 +1,6 @@
 html.dark {
   background-color: rgb(219, 95, 255);
 }
-GAME.TITLE {
-  font-family: 'Roboto Slab', serif;
-}
 .title {
   font-size: 1.25rem;
   line-height: 1.75rem;

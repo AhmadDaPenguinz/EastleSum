@@ -1,9 +1,9 @@
 export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
 
-export const WIN_MESSAGES = ['Knightle has been Knighted!']
-export const GAME_COPIED_MESSAGE = 'Not gonna Copy shiz'
-export const NOT_ENOUGH_LETTERS_MESSAGE = 'You\'re missing letters, Sherlock.'
-export const WORD_NOT_FOUND_MESSAGE = 'Stop making stuff up. You always do this.'
+export const WIN_MESSAGES = ['Nice job! Send a screenshot to @stfxreps on instagram to see if you won :)']
+export const GAME_COPIED_MESSAGE = 'Copied!'
+export const NOT_ENOUGH_LETTERS_MESSAGE = 'You\'re missing letters!.'
+export const WORD_NOT_FOUND_MESSAGE = 'Not in the dictionary!'
 export const HARD_MODE_ALERT_MESSAGE =
   'Should\'ve done it before the game began.'
 export const HARD_MODE_DESCRIPTION =

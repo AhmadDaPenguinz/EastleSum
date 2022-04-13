@@ -1,3 +1,3 @@
 export const WORDS = [
-'BONNET'
+'NICE TRY.'
 ]

@@ -1,4 +1,4 @@
-export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
+export const GAME_TITLE = 'Tune in soon for an Easter-themed Wordle experience!'
 
 export const WIN_MESSAGES = ['Nice job! Send a screenshot to @stfxreps on instagram to see if you won :)']
 export const GAME_COPIED_MESSAGE = 'Copied!'
